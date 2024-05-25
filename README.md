@@ -4,3 +4,7 @@
 
 Установка пакета:
 <a href="https://asciinema.org/a/ewgjmTkPUOgpSPPnP536y7VeK" target="_blank"><img src="https://asciinema.org/a/ewgjmTkPUOgpSPPnP536y7VeK.svg" /></a>
+Проигрыш:
+<a href="https://asciinema.org/a/jDfKQQ6iEZwhxehivhXXQSuvZ" target="_blank"><img src="https://asciinema.org/a/jDfKQQ6iEZwhxehivhXXQSuvZ.svg" /></a>
+Выигрыш:
+<a href="https://asciinema.org/a/nLRf59v6kKxECNHBjmqB5uMla" target="_blank"><img src="https://asciinema.org/a/nLRf59v6kKxECNHBjmqB5uMla.svg" /></a>
