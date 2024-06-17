@@ -37,4 +37,12 @@
  <li> <h4> Losing: </h4>
  <a href="https://asciinema.org/a/I8vyd7p6Z0Ju3omAnFzSkZqxp" target="_blank"><img src="https://asciinema.org/a/I8vyd7p6Z0Ju3omAnFzSkZqxp.svg" /></a> </li> 
  </ul>
+<li> <h3> Game "Brain-prime" </h3> </li>
+ <p> Answer "yes" if given number is prime. Otherwise answer "no". </p>
+ <ul>
+ <li> <h4> Winning: </h4>
+ <a href="https://asciinema.org/a/GPRtWegdXVP6EEmCpjOS84gnB" target="_blank"><img src="https://asciinema.org/a/GPRtWegdXVP6EEmCpjOS84gnB.svg" /></a> </li> 
+ <li> <h4> Losing: </h4>
+ <a href="https://asciinema.org/a/KFeMp0eizxILErHuTYBOdqDPX" target="_blank"><img src="https://asciinema.org/a/KFeMp0eizxILErHuTYBOdqDPX.svg" /></a> </li> 
+ </ul>
 </ol>
