@@ -25,8 +25,16 @@
  <p> Find the greatest common divisor of given numbers. </p>
  <ul>
  <li> <h4> Winning: </h4>
-<<a href="https://asciinema.org/a/BXy6zTP0Jnl58VG5FaOspaGLB" target="_blank"><img src="https://asciinema.org/a/BXy6zTP0Jnl58VG5FaOspaGLB.svg" /></a> </li> 
-<li> <h4> Losing: </h4>
-<a href="https://asciinema.org/a/WgB51uy6SyPTXDyEPzcgKrcbA" target="_blank"><img src="https://asciinema.org/a/WgB51uy6SyPTXDyEPzcgKrcbA.svg" /></a>
+ <a href="https://asciinema.org/a/BXy6zTP0Jnl58VG5FaOspaGLB" target="_blank"><img src="https://asciinema.org/a/BXy6zTP0Jnl58VG5FaOspaGLB.svg" /></a> </li> 
+ <li> <h4> Losing: </h4>
+ <a href="https://asciinema.org/a/WgB51uy6SyPTXDyEPzcgKrcbA" target="_blank"><img src="https://asciinema.org/a/WgB51uy6SyPTXDyEPzcgKrcbA.svg" /></a> </li> 
+ </ul>
+<li> <h3> Game "Brain-progression" </h3> </li>
+ <p> What number is missing in the progression? </p>
+ <ul>
+ <li> <h4> Winning: </h4>
+ <a href="https://asciinema.org/a/0O3qDjxpAQ8jm4gXgBefO6Ls8" target="_blank"><img src="https://asciinema.org/a/0O3qDjxpAQ8jm4gXgBefO6Ls8.svg" /></a> </li> 
+ <li> <h4> Losing: </h4>
+ <a href="https://asciinema.org/a/I8vyd7p6Z0Ju3omAnFzSkZqxp" target="_blank"><img src="https://asciinema.org/a/I8vyd7p6Z0Ju3omAnFzSkZqxp.svg" /></a> </li> 
  </ul>
 </ol>
