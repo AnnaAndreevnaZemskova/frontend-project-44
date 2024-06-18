@@ -1,9 +1,5 @@
 import playGame from '../index.js';
-
-const getRandomNumber = (max = 0, min = 30) => {
-  const result = Math.floor(Math.random() * (max - min + 1) + min);
-  return result;
-};
+import getRandomNumber from '../randomNumber.js';
 
 const task = 'Answer "yes" if the number is even, otherwise answer "no".';
 
