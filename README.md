@@ -2,7 +2,22 @@
 [![Actions Status](https://github.com/AnnaAndreevnaZemskova/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AnnaAndreevnaZemskova/frontend-project-44/actions)
 <a href="https://codeclimate.com/github/AnnaAndreevnaZemskova/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/9c217785dce007c23e2d/maintainability" /></a>
 <h1>Welcome to the Brain Games!</h1>
-<h2> Package installation: </h2>
+<h3>Minimum system requirements:</h3>
+<ul>
+<li>macOS Sonoma 14.4.1 </li>
+<li> Node.js v20.12.1 or higher</li>
+</ul>
+<h3>Instructions for installing and launching games:</h3>
+<ul>
+<li>launch terminal</li>
+<li>git clone git@github.com:AnnaAndreevnaZemskova/frontend-project-44.git</li>
+<li>cd frontend-project-44</li>
+<li>make install</li>
+<li>npm link</li>
+<li>npm link</li>
+<li>launch any game listed below</li>
+</ul>
+<h3> Package installation: </h3>
 <a href="https://asciinema.org/a/ewgjmTkPUOgpSPPnP536y7VeK" target="_blank"><img src="https://asciinema.org/a/ewgjmTkPUOgpSPPnP536y7VeK.svg" /></a>
 <ol>
 <li> <h3> Game "Brain-even" </h3> </li>
