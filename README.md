@@ -2,10 +2,12 @@
 [![Actions Status](https://github.com/AnnaAndreevnaZemskova/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AnnaAndreevnaZemskova/frontend-project-44/actions)
 <a href="https://codeclimate.com/github/AnnaAndreevnaZemskova/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/9c217785dce007c23e2d/maintainability" /></a>
 <h1>Welcome to the Brain Games!</h1>
+<p>"Brain Game" is a set of five console games built on the principle of popular mobile applications for brain training. Each game asks questions that must be answered correctly. After three correct answers, the game is considered completed. Wrong answers end the game and prompt you to play it again.
+</p>
 <h3>Minimum system requirements:</h3>
 <ul>
 <li>macOS Sonoma 14.4.1 </li>
-<li> Node.js v20.12.1 or higher</li>
+<li>Node.js v20.12.1 or higher</li>
 </ul>
 <h3>Instructions for installing and launching games:</h3>
 <ul>
