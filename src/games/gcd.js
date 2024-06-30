@@ -12,6 +12,7 @@ const playGcd = () => {
   const correctAnswer = getGcd(first, second).toString();
   return [question, correctAnswer];
 };
+
 const startGcd = () => {
   playGame(playGcd, task);
 };

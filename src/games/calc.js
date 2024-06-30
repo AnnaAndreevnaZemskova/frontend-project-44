@@ -15,6 +15,7 @@ const calculate = (num1, num2, operation) => {
       throw new Error(`Unknown order state: '${operation}'!`);
   }
 };
+
 const playCalc = () => {
   const first = getRandomNumber();
   const second = getRandomNumber();
@@ -24,6 +25,7 @@ const playCalc = () => {
   const correctAnswer = calculate(first, second, operator).toString();
   return [question, correctAnswer];
 };
+
 const startCalc = () => {
   playGame(playCalc, task);
 };

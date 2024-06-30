@@ -21,6 +21,7 @@ const playPrime = () => {
   const correctAnswer = (isPrime(num)) ? 'yes' : 'no';
   return [question, correctAnswer];
 };
+
 const startPrime = () => {
   playGame(playPrime, task);
 };

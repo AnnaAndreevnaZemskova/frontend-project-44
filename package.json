@@ -3,7 +3,6 @@
   "type": "module",
   "version": "1.0.0",
   "description": "Brain Game is a set of five console games",
-  "main": "index.js",
   "license": "ISC",
   "bin": {
     "code": "bin/brain-games.js",

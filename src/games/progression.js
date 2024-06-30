@@ -22,6 +22,7 @@ const playProgression = () => {
   const question = progression.join(' ').toString();
   return [question, correctAnswer];
 };
+
 const startProgression = () => {
   playGame(playProgression, task);
 };
